@@ -6,7 +6,9 @@ namespace testgit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //какие-то комменты
+            string mem = "Привет мир";
+            Console.WriteLine(mem);
         }
     }
 }
